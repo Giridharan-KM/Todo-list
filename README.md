@@ -2,6 +2,7 @@
 
 ## 🌍 Live Demo
 Todo app - [Click Here](https://mytodolist04.netlify.app/)  
+
 A simple and interactive To-Do List Web App that helps users organize tasks efficiently. Built with HTML, CSS, and JavaScript, this project allows users to add, edit, delete, and mark tasks as completed.
 
 ## 🚀 Features
@@ -23,6 +24,6 @@ Local Storage – Saves tasks persistently
 Feel free to fork this repository and contribute! 🚀
 
 ## 📧 Contact
-📩 Email: kmgiridharan8899@gmail.com  
-🔗 Portfolio: [My-Portfolio](https://giridharan-km.netlify.app/)  
-Todo app - [Click Here](https://mytodolist04.netlify.app/)
+### 📩 Email: kmgiridharan8899@gmail.com  
+### 🔗 Portfolio: [My-Portfolio](https://giridharan-km.netlify.app/)  
+### 📒 Todo app - [Click Here](https://mytodolist04.netlify.app/)
